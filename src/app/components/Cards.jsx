@@ -33,7 +33,7 @@ const Cards = () => {
                         hoverable
                         className="card-container-card"
                     >
-                        <img className="card-container-card-img" alt="img" src={product?.image}/>
+                        <img className="card-container-card-img" alt="img" src="https://placehold.co/600x400/orange/white"/>
                         <p className="card-container-card-price"> {product?.price + "₺"} </p>
                         <p className="card-container-card-name"> {product?.name} </p>
                         <div className="cartButtonContainer">
