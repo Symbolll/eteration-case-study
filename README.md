@@ -1,5 +1,5 @@
 # Demo Linki:
-https://eteration-case-simge.netlify.app/
+[https://eteration-case-simge.netlify.app/](https://eteration-case-study-rho.vercel.app/)
 
 # React + Vite
 
